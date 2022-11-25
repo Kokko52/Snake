@@ -16,3 +16,21 @@ C:\Users\kokur\OneDrive\Рабочий стол\2 неделя\Snake\obj\Debug\S
 C:\Users\kokur\OneDrive\Рабочий стол\2 неделя\Snake\obj\Debug\Snake.Properties.Resources.resources
 C:\Users\kokur\OneDrive\Рабочий стол\2 неделя\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
 C:\Users\kokur\OneDrive\Рабочий стол\2 неделя\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\student244\Desktop\2 неделя\Snake\bin\Debug\Snake.exe.config
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.exe
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.pdb
+C:\Users\student244\Desktop\2 неделя\Snake\bin\Debug\Snake.exe
+C:\Users\student244\Desktop\2 неделя\Snake\bin\Debug\Snake.pdb
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\student244\Desktop\2 неделя\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\bin\Debug\Snake.exe.config
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.exe
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.pdb
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.Form1.resources
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.Properties.Resources.resources
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\obj\Debug\Snake.csproj.GenerateResource.Cache
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\bin\Debug\Snake.exe
+C:\Users\kokur\OneDrive\Рабочий стол\Новая папка (4)\2 неделя\Snake\bin\Debug\Snake.pdb
